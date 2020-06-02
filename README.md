@@ -45,15 +45,15 @@ install.packages(c("tidyverse", "ggforce", "ggrepel", "gtable", "gganimate", "pa
 
 
   Essential elements for using `ggplot2`:
+  
     * data
---
+
 
     * mapping 
---
+
 
     * geometry
     
---
 
   All the other layers will get filled in with sensible defaults most of the time. (Except the default theme which I dislike all the time. Your mileage may vary.)
   
