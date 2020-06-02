@@ -17,13 +17,7 @@ install.packages(c("tidyverse", "ggforce", "ggrepel", "gtable", "gganimate", "pa
 
 
 ---
-### The layers of the grammar of graphics
-
-```{r echo=FALSE, out.width = 500}
-knitr::include_graphics("images/grammar_layers.png")
-```
-
-.footnote[This image from presentation by Thomas Lin Pedersen https://github.com/thomasp85/ggplot2_workshop/blob/master/presentation.pdf]
+## The layers of the grammar of graphics
 
 
 ---
@@ -47,7 +41,7 @@ knitr::include_graphics("images/grammar_layers.png")
   * theme: aspects that have to do with appearance
   
 ---
-### The essentials: what you really need to remember 
+## The essentials: what you really need to remember 
 
 
   Essential elements for using `ggplot2`:
@@ -65,7 +59,7 @@ knitr::include_graphics("images/grammar_layers.png")
   
   
 ---
-### Common geometries
+## Common geometries
 
   * `geom_bar`: to make a bar chart with counts
   
@@ -83,7 +77,7 @@ knitr::include_graphics("images/grammar_layers.png")
   
   
 ---
-### Common aesthetics
+## Common aesthetics
 
   * <i>x</i>
   
@@ -103,7 +97,7 @@ knitr::include_graphics("images/grammar_layers.png")
 
 
 ---
-### The objects/data involved
+## The objects/data involved
 
 You need to create two objects:
 
