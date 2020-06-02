@@ -59,7 +59,7 @@ install.packages(c("tidyverse", "ggforce", "ggrepel", "gtable", "gganimate", "pa
   
   
 ---
-## Common geometries
+### Common geometries
 
   * `geom_bar`: to make a bar chart with counts
   
@@ -77,7 +77,7 @@ install.packages(c("tidyverse", "ggforce", "ggrepel", "gtable", "gganimate", "pa
   
   
 ---
-## Common aesthetics
+### Common aesthetics
 
   * <i>x</i>
   
@@ -97,7 +97,7 @@ install.packages(c("tidyverse", "ggforce", "ggrepel", "gtable", "gganimate", "pa
 
 
 ---
-## The objects/data involved
+### The objects/data involved
 
 You need to create two objects:
 
